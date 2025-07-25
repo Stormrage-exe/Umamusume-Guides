@@ -1,0 +1,163 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #fff5f7;
+    color: #333;
+    line-height: 1.6;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.wiki-header {
+    background-color: #ff69b4;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 5px solid #ff1493;
+    margin-bottom: 30px;
+}
+
+.wiki-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.main-nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.main-nav li {
+    margin: 0 15px;
+}
+
+.main-nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 1.1rem;
+    padding: 5px 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.main-nav a:hover {
+    background-color: #ff1493;
+}
+
+.wiki-content {
+    background-color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 105, 180, 0.1);
+    margin-bottom: 30px;
+}
+
+.welcome-section, .recent-updates {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #ff69b4;
+    border-bottom: 2px solid #ffb6c1; 
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.character-gallery {
+    margin: 40px 0;
+}
+
+.character-row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.character-card {
+    width: 18%;
+    background-color: #ffe6ee;
+    border: 2px solid #ffb6c1;
+    border-radius: 8px;
+    overflow: hidden;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.character-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 5px 15px rgba(255, 105, 180, 0.3);
+}
+
+.placeholder {
+    height: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ff69b4;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+}
+
+.recent-updates ul {
+    list-style-position: inside;
+    padding-left: 20px;
+}
+
+.recent-updates li {
+    margin-bottom: 10px;
+}
+
+.wiki-footer {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #ff69b4;
+    color: white;
+    border-radius: 10px 10px 0 0;
+}
+
+.wiki-footer p {
+    margin: 5px 0;
+}
+
+@media (max-width: 768px) {
+    .character-row {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    .character-card {
+        width: 30%;
+        margin-bottom: 15px;
+    }
+    
+    .main-nav ul {
+        flex-wrap: wrap;
+    }
+    
+    .main-nav li {
+        margin: 5px 10px;
+    }
+}
+
+@media (max-width: 480px) {
+    .character-card {
+        width: 45%;
+    }
+    
+    .wiki-header h1 {
+        font-size: 2rem;
+    }
+}
