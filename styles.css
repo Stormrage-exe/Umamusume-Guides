@@ -161,3 +161,123 @@ h2 {
         font-size: 2rem;
     }
 }
+
+/* CSS for the character page */
+
+.character-container {
+    display: flex;
+    gap: 30px;
+    margin-top: 20px;
+}
+
+.character-details {
+    flex: 2;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.character-profile {
+    flex: 1;
+    position: sticky;
+    top: 20px;
+    align-self: flex-start;
+}
+
+.character-name {
+    color: #ff69b4;
+    font-size: 2.2rem;
+    margin-bottom: 20px;
+    border-bottom: 3px solid #ffb6c1;
+    padding-bottom: 10px;
+}
+
+.character-section {
+    margin-bottom: 30px;
+}
+
+.character-section h2 {
+    color: #ff69b4;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+    border-bottom: 2px dashed #ffb6c1;
+}
+
+.profile-image {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.profile-image img {
+    border-radius: 10px;
+    border: 3px solid #ff69b4;
+    max-width: 100%;
+    height: auto;
+}
+
+.profile-box {
+    background: #ffe6ee;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.info-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.profile-name {
+    font-size: 1.5rem;
+    color: #ff1493;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.profile-subtitle {
+    font-style: italic;
+    text-align: center;
+    padding-bottom: 15px;
+    color: #666;
+}
+
+.info-label {
+    font-weight: bold;
+    padding: 8px 5px;
+    width: 40%;
+    color: #ff69b4;
+}
+
+.info-value {
+    padding: 8px 5px;
+    border-left: 1px solid #ffb6c1;
+}
+
+.build-section h3,
+.race-strategy h3 {
+    color: #ff1493;
+    margin: 15px 0 10px 0;
+    font-size: 1.2rem;
+}
+
+
+@media (max-width: 768px) {
+    .character-container {
+        flex-direction: column;
+    }
+    
+    .character-profile {
+        position: static;
+        order: -1;
+    }
+    
+    .profile-image {
+        text-align: center;
+    }
+    
+    .profile-image img {
+        max-width: 300px;
+    }
+}
