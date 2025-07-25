@@ -162,7 +162,6 @@ h2 {
     }
 }
 
-/* CSS for the character page */
 
 .character-container {
     display: flex;
@@ -208,13 +207,16 @@ h2 {
 .profile-image {
     margin-bottom: 20px;
     text-align: center;
+
 }
 
-.profile-image img {
+.profileimage img {
     border-radius: 10px;
     border: 3px solid #ff69b4;
     max-width: 100%;
     height: auto;
+      display: block;
+    margin: auto;
 }
 
 .profile-box {
@@ -229,28 +231,29 @@ h2 {
     border-collapse: collapse;
 }
 
-.profile-name {
+.profilename {
     font-size: 1.5rem;
     color: #ff1493;
     text-align: center;
     padding: 10px 0;
 }
 
-.profile-subtitle {
+.profilesubtitle {
     font-style: italic;
     text-align: center;
     padding-bottom: 15px;
     color: #666;
+    text-align:center;
 }
 
-.info-label {
+.infolabel {
     font-weight: bold;
     padding: 8px 5px;
     width: 40%;
     color: #ff69b4;
 }
 
-.info-value {
+.infovalue {
     padding: 8px 5px;
     border-left: 1px solid #ffb6c1;
 }
