@@ -62,7 +62,7 @@ const characters = {
    birthday: "April 13",
   },    
   
-  baiwa: {
+  biwa: {
     personality: "",
     trait1: "Strength: ",
     trait2: "Weaknesses: ",
@@ -83,10 +83,10 @@ const characters = {
    okdistance: "", 
    worstdistance: "", 
    track: "",
-   profileimage: "",
-   profilename: "",
-   profilesubtitle: " '' ",
-   rarity: "",
+   profileimage: "https://umamusu.wiki/w/thumb.php?f=Biwa_Hayahide_%28Icon%29.png&width=200",
+   profilename: "Biwa Hayahide",
+   profilesubtitle: " 'Victory Investigator' ",
+   rarity: "★★★",
    type: "",
    distance: "",
    style: "",
