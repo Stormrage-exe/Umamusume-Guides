@@ -116,7 +116,7 @@ const characters = {
    track: "She performs best on turf tracks.",
    profileimage: "https://umamusu.wiki/w/thumb.php?f=Curren_Chan_%28Icon%29.png&width=200",
    profilename: "Curren Chan",
-   profilesubtitle: " 'Sparkling Gir' ",
+   profilesubtitle: " 'Sparkling Girl' ",
    rarity: "★★★",
    type: "Speed/Wits",
    distance: "Sprint",
