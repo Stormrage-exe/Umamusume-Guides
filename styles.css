@@ -253,7 +253,6 @@ p{
 
 .profilesubtitle {
     font-style: italic;
-    text-align: center;
     padding-bottom: 15px;
     color: #666;
     text-align:center;
@@ -277,6 +276,73 @@ p{
     margin: 15px 0 10px 0;
     font-size: 1.2rem;
 }
+
+.gooddistance2{
+    background-color: rgb(94, 245, 94);
+    border-radius:25px;
+    width:80px;
+    height:30px;
+    display: block;
+    margin: auto;
+}
+
+.okdistance2{
+    background-color: rgb(248, 149, 18);
+    border-radius:25px;
+    width:120px;
+     height:30px;
+    display:block;
+    margin: auto;
+}
+
+.worstdistance2{
+    background-color: rgb(248, 22, 22);
+    border-radius:25px;
+    width:150px;
+     height:40px;
+    display: block;
+    margin: auto;
+}
+
+.goodpace{
+    background-color: rgb(94, 245, 94);
+    border-radius:25px;
+    width:80px;
+    height:30px;
+     text-align:center;
+    display: block;
+    margin: auto;
+}
+
+.okpace{
+    background-color: rgb(248, 149, 18);
+    border-radius:25px;
+    width:120px;
+     height:30px;
+     text-align:center;
+    display: block;
+    margin: auto;
+}
+
+.worstpace{
+    background-color: rgb(248, 22, 22);
+    border-radius:25px;
+    width:150px;
+     height:40px;
+    text-align:center;
+    display: block;
+    margin: auto;
+}
+
+.triangle1{
+   float:left;
+}
+
+.triangle2{
+    float:right;
+}
+
+
 
 
 @media (max-width: 768px) {

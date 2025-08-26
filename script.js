@@ -29,6 +29,12 @@ const characters = {
    distance: "Mile/Medium",
    style: "Pace/Late",
    birthday: "April 6",
+    gooddistance2: "Medium",
+   okdistance2: "Mile/Sprint",
+   worstdistance2: "Long",
+   goodpace: "Pace/Late",
+   okpace: "Front",
+   worstpace: "End"
   },    
 
   tachyon: {
@@ -60,6 +66,12 @@ const characters = {
    distance: "Medium",
    style: "Pace/Late",
    birthday: "April 13",
+   gooddistance2: "Medium",
+   okdistance2: "Long",
+   worstdistance2: "Mile/Sprint",
+   goodpace: "Pace",
+   okpace: "Late",
+   worstpace: "Front/End"
   },    
   
   biwa: {
@@ -91,6 +103,12 @@ const characters = {
    distance: "Medium/Long",
    style: "Pace/Late",
    birthday: "March 10",
+   gooddistance2: "",
+   okdistance2: "",
+   worstdistance2: "",
+   goodpace: "",
+   okpace: "",
+   worstpace: ""
   }, 
 
     curren:{
@@ -122,6 +140,12 @@ const characters = {
    distance: "Sprint",
    style: "Pace/Front",
    birthday: "March 31",
+   gooddistance2: "",
+   okdistance2: "",
+   worstdistance2: "",
+   goodpace: "",
+   okpace: "",
+   worstpace: ""
   },
 
   scarlet: {
@@ -153,6 +177,12 @@ const characters = {
    distance: "Mile/Medium",
    style: "Front/Pace",
    birthday: "May 13",
+   gooddistance2: "",
+   okdistance2: "",
+   worstdistance2: "",
+   goodpace: "",
+   okpace: "",
+   worstpace: ""
   },
 
    elcondor: {
@@ -184,6 +214,12 @@ const characters = {
    distance: "Mile/Medium",
    style: "Pace/Late",
    birthday: "March 17",
+   gooddistance2: "",
+   okdistance2: "",
+   worstdistance2: "",
+   goodpace: "",
+   okpace: "",
+   worstpace: ""
   },
 
 goldship:{
@@ -215,6 +251,12 @@ goldship:{
    distance: "Long/Medium",
    style: "End",
    birthday: "March 6",
+   gooddistance2: "",
+   okdistance2: "",
+   worstdistance2: "",
+   goodpace: "",
+   okpace: "",
+   worstpace: ""
   },
 
   grasswonder: {
@@ -246,6 +288,12 @@ goldship:{
    distance: "Mile/Long",
    style: "Pace/Late",
    birthday: "February 18",
+   gooddistance2: "",
+   okdistance2: "",
+   worstdistance2: "",
+   goodpace: "",
+   okpace: "",
+   worstpace: ""
   },
 
   haru: {
@@ -277,6 +325,12 @@ goldship:{
    distance: "Sprint/Mile",
    style: "Late/End",
    birthday: "February 27",
+   gooddistance2: "",
+   okdistance2: "",
+   worstdistance2: "",
+   goodpace: "",
+   okpace: "",
+   worstpace: ""
   },
 
   halo: {
@@ -308,6 +362,13 @@ goldship:{
    distance: "Sprint",
    style: "Late",
    birthday: "April 28",
+   gooddistance2: "",
+   okdistance2: "",
+   worstdistance2: "",
+   goodpace: "",
+   okpace: "",
+   worstpace: ""
+
   },
 
 };
@@ -416,4 +477,26 @@ function loadCharacterData() {
     if (character.profileimage) {
         document.querySelector('.profileimage img').src = character.profileimage;
     }
+    if (character.besttotrain) {
+        document.querySelector('.besttotrain').textContent = character.besttotrain;
+    }
+    if (character.gooddistance2) {
+        document.querySelector('.gooddistance2').textContent = character.gooddistance2;
+    }
+     if (character.okdistance2) {
+        document.querySelector('.okdistance2').textContent = character.okdistance2;
+    }
+     if (character.worstdistance2) {
+        document.querySelector('.worstdistance2').textContent = character.worstdistance2;
+    }
+    if (character.goodpace) {
+        document.querySelector('.goodpace').textContent = character.goodpace;
+    }
+    if (character.okpace) {
+        document.querySelector('.okpace').textContent = character.okpace;
+    }
+    if (character.worstpace) {
+        document.querySelector('.worstpace').textContent = character.worstpace;
+    }
 }
+
