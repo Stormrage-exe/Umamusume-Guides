@@ -177,12 +177,12 @@ const characters = {
    distance: "Mile/Medium",
    style: "Front/Pace",
    birthday: "May 13",
-   gooddistance2: "",
-   okdistance2: "",
-   worstdistance2: "",
-   goodpace: "",
-   okpace: "",
-   worstpace: ""
+   gooddistance2: "Mile/Med",
+   okdistance2: "Long",
+   worstdistance2: "Sprint",
+   goodpace: "Front/Pace",
+   okpace: "Late",
+   worstpace: "End"
   },
 
    elcondor: {
@@ -369,6 +369,43 @@ goldship:{
    okpace: "",
    worstpace: ""
 
+  },
+
+  maruzensky: {
+      personality: "",
+    trait1: "Strength: ",
+    trait2: "Weaknesses: ",
+    trait3: "Family: ",
+    trait4: "Pre-Race Ritual: ",
+    trait5: "Secret:",
+    speedpriority: "",
+    staminapriority: "",
+    powerpriority: "",
+    gutspriority: "",
+   witspriority: "",
+   skill1: "",
+   skill2: "",
+   skill3: "",
+   besttotrain: "",
+   racestrategy: "", 
+   bestdistance: "", 
+   okdistance: "", 
+   worstdistance: "", 
+   track: "",
+   profileimage: "",
+   profilename: "",
+   profilesubtitle: " '' ",
+   rarity: "",
+   type: "",
+   distance: "",
+   style: "",
+   birthday: "",
+   gooddistance2: "",
+   okdistance2: "",
+   worstdistance2: "",
+   goodpace: "",
+   okpace: "",
+   worstpace: ""
   },
 
 };
