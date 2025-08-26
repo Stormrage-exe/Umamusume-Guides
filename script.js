@@ -279,6 +279,37 @@ goldship:{
    birthday: "February 27",
   },
 
+  halo: {
+      personality: "Haughty, dazzling, and proud enough to touch the heavens—King Halo carries herself with the unshakable spirit of nobility. Determined to prove herself a true first-class lady, she faces every challenge head-on in pursuit of recognition. Though her relationship with her mother—a celebrated Umamusume and renowned designer—remains strained, she strives to one day earn her approval as both a rival and a daughter. Yet within Tracen Academy, her loyal admirers already hail her as their “King,” and in their eyes, she is second to none.",
+    trait1: "Strength: Skilled in design and fashion.",
+    trait2: "Weaknesses: Crowds, heat, and other “unworthy” conditions for someone of her class.",
+    trait3: "Family: Her mother is hopeless at housework, so servants manage the household.",
+    trait4: "Pre-Race Ritual: Sounds her unmistakable King’s Call before heading off.",
+    trait5: "Secret: Talks back to the screen while watching dramas, often clicking her tongue with a “tsk, tsk”.",
+    speedpriority: "",
+    staminapriority: "",
+    powerpriority: "",
+    gutspriority: "",
+   witspriority: "",
+   skill1: "",
+   skill2: "",
+   skill3: "",
+   besttotrain: "",
+   racestrategy: "", 
+   bestdistance: "", 
+   okdistance: "", 
+   worstdistance: "", 
+   track: "",
+   profileimage: "https://umamusu.wiki/w/thumb.php?f=King_Halo_%28Icon%29.png&width=200",
+   profilename: "King Halo",
+   profilesubtitle: " 'King of the World' ",
+   rarity: "★",
+   type: "",
+   distance: "",
+   style: "",
+   birthday: "April 28",
+  },
+
 };
 
 
