@@ -214,12 +214,12 @@ const characters = {
    distance: "Mile/Medium",
    style: "Pace/Late",
    birthday: "March 17",
-   gooddistance2: "",
-   okdistance2: "",
-   worstdistance2: "",
-   goodpace: "",
-   okpace: "",
-   worstpace: ""
+   gooddistance2: "Mile/Med",
+   okdistance2: "Long",
+   worstdistance2: "Sprint",
+   goodpace: "Pace/Late",
+   okpace: "End",
+   worstpace: "Front"
   },
 
 goldship:{
