@@ -140,12 +140,12 @@ const characters = {
    distance: "Sprint",
    style: "Pace/Front",
    birthday: "March 31",
-   gooddistance2: "",
-   okdistance2: "",
-   worstdistance2: "",
-   goodpace: "",
-   okpace: "",
-   worstpace: ""
+   gooddistance2: "Sprint",
+   okdistance2: "Mile",
+   worstdistance2: "Medium/Long",
+   goodpace: "Pace",
+   okpace: "Front",
+   worstpace: "Late/End"
   },
 
   scarlet: {
