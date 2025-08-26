@@ -103,12 +103,12 @@ const characters = {
    distance: "Medium/Long",
    style: "Pace/Late",
    birthday: "March 10",
-   gooddistance2: "",
-   okdistance2: "",
-   worstdistance2: "",
-   goodpace: "",
-   okpace: "",
-   worstpace: ""
+   gooddistance2: "Med/Long",
+   okdistance2: "Mile",
+   worstdistance2: "Sprint",
+   goodpace: "Pace",
+   okpace: "Late",
+   worstpace: "End/Front"
   }, 
 
     curren:{
