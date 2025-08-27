@@ -325,12 +325,12 @@ goldship:{
    distance: "Sprint/Mile",
    style: "Late/End",
    birthday: "February 27",
-   gooddistance2: "",
-   okdistance2: "",
-   worstdistance2: "",
-   goodpace: "",
-   okpace: "",
-   worstpace: ""
+   gooddistance2: "Sprint",
+   okdistance2: "Mile",
+   worstdistance2: "Med/Long",
+   goodpace: "Late",
+   okpace: "End",
+   worstpace: "Pace/Front"
   },
 
   halo: {
