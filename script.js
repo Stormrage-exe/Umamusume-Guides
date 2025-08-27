@@ -288,12 +288,12 @@ goldship:{
    distance: "Mile/Long",
    style: "Pace/Late",
    birthday: "February 18",
-   gooddistance2: "",
-   okdistance2: "",
-   worstdistance2: "",
-   goodpace: "",
+   gooddistance2: "Mile/Long",
+   okdistance2: "Medium",
+   worstdistance2: "Sprint",
+   goodpace: "Pace/Late",
    okpace: "",
-   worstpace: ""
+   worstpace: "Front/End"
   },
 
   haru: {
