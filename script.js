@@ -251,12 +251,12 @@ goldship:{
    distance: "Long/Medium",
    style: "End",
    birthday: "March 6",
-   gooddistance2: "",
-   okdistance2: "",
-   worstdistance2: "",
-   goodpace: "",
-   okpace: "",
-   worstpace: ""
+   gooddistance2: "Med/Long",
+   okdistance2: "Mile",
+   worstdistance2: "Sprint",
+   goodpace: "End",
+   okpace: "Pace/Late",
+   worstpace: "Front"
   },
 
   grasswonder: {
