@@ -628,6 +628,43 @@ matikane: {
    okpace: "-",
    worstpace: "Pace/Late/End"
   },
+
+  taishin: {
+      personality: "Despite her slight frame, she carries an unexpected edge on the track. A rebellious and sharp-minded Umamusume, she was often teased for her small stature—an experience that fuels her determination to prove her abilities. Her blunt, no-nonsense demeanor reflects her disdain for being underestimated. She is close friends with Winning Ticket and Biwa Hayahide.",
+    trait1: "Strength: Video games, housework.",
+    trait2: "Weaknesses: Crowds and bustling environments.",
+    trait3: "Family: Rumor has it the mothers of the BNW trio are friends now.",
+    trait4: "Pre-Race Ritual: Keeps a low profile before the start.",
+    trait5: "Secret: Addicted to solo-camping videos.",
+    speedpriority: "900-1000",
+    staminapriority: "500-600",
+    powerpriority: "600-700",
+    gutspriority: "200-300",
+   witspriority: "400-500",
+   skill1: "Professor of Curvature",
+   skill2: "Homestretch Haste",
+   skill3: "Cooldown",
+   besttotrain: "Focus on speed,then on power,stamina,wits and guts.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Med/Long", 
+   okdistance: "Mile", 
+   worstdistance: "Sprint", 
+   track: "She performs best on turf tracks.",
+   profileimage: "https://umamusu.wiki/w/thumb.php?f=Narita_Taishin_%28Icon%29.png&width=300",
+   profilename: "Narita Taishin",
+   profilesubtitle: " 'Reversal Umamusume' ",
+   rarity: "★★★",
+   type: "Speed",
+   distance: "Med/Long",
+   style: "End",
+   birthday: "June 10",
+   gooddistance2: "Med/Long",
+   okdistance2: "Mile",
+   worstdistance2: "Sprint",
+   goodpace: "End",
+   okpace: "Late",
+   worstpace: "Pace/Front"
+  },
 };
 
 
