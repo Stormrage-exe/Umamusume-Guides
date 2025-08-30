@@ -739,6 +739,43 @@ matikane: {
    okpace: "End",
    worstpace: "Front"
   },
+
+  riceshower: {
+      personality: "A shy and timid Umamusume, she believes that any bad luck affecting those around her is her fault—though in reality, it’s usually just poor timing. Still, she is determined to overcome this self-perceived jinx. In her free time, she enjoys reading picture books, with a particular fondness for “The Blue Rose of Good Fortune.”",
+    trait1: "Strength: Drawing.",
+    trait2: "Weaknesses: Others’ misfortune, ghosts.",
+    trait3: "Family: Grew up falling asleep to her parents reading picture books aloud.",
+    trait4: "Pre-Race Ritual: Spends extra time stretching to prepare her body.",
+    trait5: "Secret: Prefers bread over rice for breakfast; dreams of owning a complete set of 500 colored pencils.",
+    speedpriority: "500-550",
+    staminapriority: "600-700",
+    powerpriority: "450-500",
+    gutspriority: "350-400",
+   witspriority: "300",
+   skill1: "Pace Chaser Corners ◯",
+   skill2: "Professor of Curvature",
+   skill3: "Homestretch Haste",
+   besttotrain: "Focus on stamina,then on speed,power,guts and wits.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Med/Long", 
+   okdistance: "Mile", 
+   worstdistance: "Sprint", 
+   track: "She performs best on turf tracks.",
+   profileimage: "https://umamusu.wiki/w/thumb.php?f=Rice_Shower_%28Icon%29.png&width=300",
+   profilename: "Rice Shower",
+   profilesubtitle: " 'Black Assassin' ",
+   rarity: "★★★",
+   type: "Stamina",
+   distance: "Med/Long",
+   style: "Pace",
+   birthday: "March 5",
+   gooddistance2: "Med/Long",
+   okdistance2: "Mile",
+   worstdistance2: "Sprint",
+   goodpace: "Pace",
+   okpace: "Front/Late",
+   worstpace: "End"
+  },
 };
 
 
