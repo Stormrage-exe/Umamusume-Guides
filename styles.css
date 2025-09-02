@@ -12,6 +12,11 @@ body {
     line-height: 1.6;
 }
 
+a {
+  color: hotpink;
+  font-weight: bold;
+}
+
 .wrapper {
     max-width: 1200px;
     margin: 0 auto;
