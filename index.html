@@ -14,10 +14,11 @@
             <nav class="main-nav">
                 <ul>
                     <li><a href="index.html">Home</a></li>
-                    <li><a href="">Random Character</a></li>
+                    <li><a href="#" id="random-character">Random Character</a></li>
                     <li><a href="about.html">About</a></li>
                 </ul>
             </nav>
+            
         </header>
 
         <main class="wiki-content">
@@ -107,6 +108,45 @@
 
 <script src="script.js">
 
+</script>
+
+<script>
+    window.addEventListener("load", function() {
+const characterNames = [
+                "airgroove", "tachyon", "biwa", "curren", "scarlet",
+                "elcondor", "goldship", "grasswonder", "haru", "halo",
+                "maruzensky", "matikane", "mayano", "mcqueen", "ryan",
+                "bourbon", "narita", "taishin", "nature", "oguri",
+                "riceshower", "bakushin", "falcon", "suzuka", "specialweek",
+                "supercreek", "rudolf", "opera", "taiki", "teio",
+                "vodka", "ticket"
+            ];
+
+  
+            const randomLink = document.getElementById("random-character");
+
+            randomLink.addEventListener("click", function(e) {
+                e.preventDefault(); 
+                
+                const randomIndex = Math.floor(Math.random() * characterNames.length);
+                const randomChar = characterNames[randomIndex];
+                
+                
+                const basePath = window.location.origin;
+                let characterURL;
+                
+                if (basePath.includes('github.io')) {
+                    
+                    characterURL = `${basePath}/Umamusume-Guides/character.html?char=${randomChar}`;
+                } else {
+                
+                    characterURL = `${basePath}/character.html?char=${randomChar}`;
+                }
+                
+                console.log("Redirecting to:", characterURL);
+                window.location.href = characterURL; 
+            });
+        });
 </script>
 
 
