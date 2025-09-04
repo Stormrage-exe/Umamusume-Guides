@@ -19,8 +19,35 @@ a {
 
 #poll-container {
     clear: both;
-   text-align:center;
 }
+
+.opinions-button {
+background-color: #4a6fa5;
+color: white;
+border: none;
+padding: 10px 20px;
+border-radius: 4px;
+cursor: pointer;
+font-weight: bold;
+margin: 10px 0;
+transition: background-color 0.2s;
+        }
+        
+.opinions-button:hover {
+background-color: #3a5a80;
+        }
+
+.back-button {
+margin-bottom: 20px;
+padding: 8px 16px;
+background-color: #4a6fa5;
+color: white;
+ border: none;
+border-radius: 4px;
+cursor: pointer;
+padding: 10px 20px;
+border-radius: 4px;
+        }       
 
 .wrapper {
     max-width: 1200px;

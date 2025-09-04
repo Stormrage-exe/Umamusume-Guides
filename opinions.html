@@ -21,9 +21,7 @@
         </header>
 
         <main class="wiki-content">
-              <div style="text-align: center; margin: 20px 0;">
-                <button class="opinions-button" id="player-opinions-btn">Player Opinions</button>
-            </div>
+              <button class="back-button" onclick="window.history.back()">← Back to Character</button>
 
 <div class="character-container">
                 
@@ -31,77 +29,34 @@
                     <h1 class="profilename"></h1>
                     
                     <section class="character-section">
-                        <h2>Personality</h2>
-                        <p class="personality"></p>
-                    </section>
+
+                      <div id="poll-container"></div>
 
                       <section class="character-section">
-                        <h2>Traits and Quirks:</h2>
-                        <p class="trait1"></p>
-                        <p class="trait2"></p>
-                        <p class="trait3"></p>
-                        <p class="trait4"></p>
-                        <p class="trait5"></p>
+                   
                     </section>
                     
                     <section class="character-section">
-                        <h2>Optimal Build</h2>
+                       
                         <div class="build-section">
-                            <h3>Stats Priority</h3>
-                            <ul>
-                                <li class="speedpriority"><strong>Speed:</strong></li>
-                                <li class="staminapriority"><strong>Stamina:</strong></li>
-                                <li class="powerpriority"><strong>Power:</strong></li>
-                                <li class="gutspriority"><strong>Guts:</strong></li>
-                                <li class="witspriority"><strong>Wits:</strong></li>
-                            </ul>
-                            
-                            <h3>Recommended Skills</h3>
-                            <ul>
-                                <li class="skill1"><strong>Skill 1:</strong></li>
-                                <li class="skill2"><strong>Skill 2:</strong></li>
-                                <li class="skill3"><strong>Skill 3:</strong></li>
-                            </ul>
-                            
-                            <h3>Training Focus</h3>
-                            <p class="besttotrain"></p>
+                     
                         </div>
                     </section>
                     
                     <section class="character-section">
-                        <h2>How to Race Her</h2>
                         <div class="race-strategy">
-                            <h3>Race Strategy</h3>
-                            <p class="racestrategy"></p>
+                   
                             
-                            <h3>Recommended Distances</h3>
-                            <div class="distance-chart">
-                               <p class="bestdistance"></p>
-                               <p class="okdistance"></p>
-                               <p class="worstdistance"></p>
-                            </div>
                             
-                            <h3>Track Compatibility</h3>
-                            <p class='track'></p>
-
-                            <h3>Overall Abilities</h3>
                             
-                        <div class="triangle1">
-                            <p class='gooddistance2'></p>
-                            <p class='okdistance2'></p>
-                            <p class='worstdistance2'></p>
-                         </div>
+                       
  
-                         <div class="triangle2">
-                            <p class='goodpace'></p>
-                            <p class='okpace'></p>
-                            <p class='worstpace'></p>
-                        </div>
+                         
 
                         
                     </div>
 
-
+<div id="poll-container"></div>
 
                     </section>
                   
@@ -157,6 +112,9 @@
 <script src="script.js">
 
 </script>
+
+
+
 <script>
 
     function getCurrentCharacter() {
