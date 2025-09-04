@@ -17,6 +17,11 @@ a {
   font-weight: bold;
 }
 
+#poll-container {
+    clear: both;
+   text-align:center;
+}
+
 .wrapper {
     max-width: 1200px;
     margin: 0 auto;

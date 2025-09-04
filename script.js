@@ -34,7 +34,8 @@ const characters = {
    worstdistance2: "Long",
    goodpace: "Pace/Late",
    okpace: "Front",
-   worstpace: "End"
+   worstpace: "End",
+   pollEmbed: `<<div class="strawpoll-embed" id="strawpoll_Q0Zp7jM0jgM" style="height: 708px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_Q0Zp7jM0jgM" src="https://strawpoll.com/embed/Q0Zp7jM0jgM" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>`
   },    
 
   tachyon: {
@@ -71,7 +72,8 @@ const characters = {
    worstdistance2: "Mile/Sprint",
    goodpace: "Pace",
    okpace: "Late",
-   worstpace: "Front/End"
+   worstpace: "Front/End",
+   pollEmbed: ''
   },    
   
   biwa: {
@@ -108,7 +110,8 @@ const characters = {
    worstdistance2: "Sprint",
    goodpace: "Pace",
    okpace: "Late",
-   worstpace: "End/Front"
+   worstpace: "End/Front",
+   pollEmbed: ''
   }, 
 
     curren:{
@@ -145,7 +148,8 @@ const characters = {
    worstdistance2: "Medium/Long",
    goodpace: "Pace",
    okpace: "Front",
-   worstpace: "Late/End"
+   worstpace: "Late/End",
+   pollEmbed: ''
   },
 
   scarlet: {
@@ -182,7 +186,8 @@ const characters = {
    worstdistance2: "Sprint",
    goodpace: "Front/Pace",
    okpace: "Late",
-   worstpace: "End"
+   worstpace: "End",
+   pollEmbed: ''
   },
 
    elcondor: {
@@ -219,7 +224,8 @@ const characters = {
    worstdistance2: "Sprint",
    goodpace: "Pace/Late",
    okpace: "End",
-   worstpace: "Front"
+   worstpace: "Front",
+   pollEmbed: ''
   },
 
 goldship:{
@@ -256,7 +262,8 @@ goldship:{
    worstdistance2: "Sprint",
    goodpace: "End",
    okpace: "Pace/Late",
-   worstpace: "Front"
+   worstpace: "Front",
+   pollEmbed: ''
   },
 
   grasswonder: {
@@ -293,7 +300,8 @@ goldship:{
    worstdistance2: "Sprint",
    goodpace: "Pace/Late",
    okpace: "",
-   worstpace: "Front/End"
+   worstpace: "Front/End",
+   pollEmbed: ''
   },
 
   haru: {
@@ -330,7 +338,8 @@ goldship:{
    worstdistance2: "Med/Long",
    goodpace: "Late",
    okpace: "End",
-   worstpace: "Pace/Front"
+   worstpace: "Pace/Front",
+   pollEmbed: ''
   },
 
   halo: {
@@ -367,7 +376,8 @@ goldship:{
    worstdistance2: "Long",
    goodpace: "Late",
    okpace: "Pace",
-   worstpace: "End/Front"
+   worstpace: "End/Front",
+   pollEmbed: ''
 
   },
 
@@ -405,7 +415,8 @@ goldship:{
    worstdistance2: "Long",
    goodpace: "Front",
    okpace: "Pace",
-   worstpace: "Late/End"
+   worstpace: "Late/End",
+   pollEmbed: ''
   },
 
 matikane: {
@@ -442,7 +453,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "Late",
    okpace: "Pace",
-   worstpace: "End/Front"
+   worstpace: "End/Front",
+   pollEmbed: ''
   },
 
   mayano: {
@@ -479,7 +491,8 @@ matikane: {
    worstdistance2: "-",
    goodpace: "Front/Pace",
    okpace: "Late/End",
-   worstpace: "-"
+   worstpace: "-",
+   pollEmbed: ''
   },
 
   mcqueen: {
@@ -516,7 +529,8 @@ matikane: {
    worstdistance2: "Mile/Sprint",
    goodpace: "Pace",
    okpace: "Front/Late",
-   worstpace: "End"
+   worstpace: "End",
+   pollEmbed: ''
   },
   narita: {
       personality: "A cold and formidable runner whose speed leaves both awe and fear in her wake. At Tracen Academy, her very presence inspires respect, if not dread. She runs for no one but herself, chasing only the thirst within. Despite her stern demeanor, she is the younger sister of Biwa Hayahide and serves, somewhat surprisingly, as the vice president of the student council.",
@@ -552,7 +566,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "Pace/Late",
    okpace: "End",
-   worstpace: "Front"
+   worstpace: "Front",
+   pollEmbed: ''
   },
 
   ryan: {
@@ -589,7 +604,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "Pace/Late",
    okpace: "-",
-   worstpace: "Front/End"
+   worstpace: "Front/End",
+   pollEmbed: ''
   },
 
  bourbon: {
@@ -626,7 +642,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "Front",
    okpace: "-",
-   worstpace: "Pace/Late/End"
+   worstpace: "Pace/Late/End",
+   pollEmbed: ''
   },
 
   taishin: {
@@ -663,7 +680,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "End",
    okpace: "Late",
-   worstpace: "Pace/Front"
+   worstpace: "Pace/Front",
+   pollEmbed: ''
   },
 
   nature: {
@@ -700,7 +718,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "Late",
    okpace: "Pace/End",
-   worstpace: "Front"
+   worstpace: "Front",
+   pollEmbed: ''
   },
 
   oguri: {
@@ -737,7 +756,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "Pace/Late",
    okpace: "End",
-   worstpace: "Front"
+   worstpace: "Front",
+   pollEmbed: ''
   },
 
   riceshower: {
@@ -774,7 +794,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "Pace",
    okpace: "Front/Late",
-   worstpace: "End"
+   worstpace: "End",
+   pollEmbed: ''
   },
 
   bakushin: {
@@ -811,7 +832,8 @@ matikane: {
    worstdistance2: "Med/Long",
    goodpace: "Front/Pace",
    okpace: "-",
-   worstpace: "Late/End"
+   worstpace: "Late/End",
+   pollEmbed: ''
   }, 
 
   falcon: {
@@ -848,7 +870,8 @@ matikane: {
    worstdistance2: "Long",
    goodpace: "Front",
    okpace: "Pace",
-   worstpace: "End/Late"
+   worstpace: "End/Late",
+   pollEmbed: ''
   }, 
 
   suzuka: {
@@ -885,7 +908,8 @@ matikane: {
    worstdistance2: "Long",
    goodpace: "Front",
    okpace: "Pace",
-   worstpace: "Late/End"
+   worstpace: "Late/End",
+   pollEmbed: ''
   }, 
 
   specialweek: {
@@ -922,7 +946,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "Pace/Late",
    okpace: "End",
-   worstpace: "Front"
+   worstpace: "Front",
+   pollEmbed: ''
   },
 
   supercreek: {
@@ -959,7 +984,8 @@ matikane: {
    worstdistance2: "Mile/Sprint",
    goodpace: "Pace",
    okpace: "Late",
-   worstpace: "Front/End"
+   worstpace: "Front/End",
+   pollEmbed: ''
   },
 
   rudolf: {
@@ -996,7 +1022,8 @@ matikane: {
    worstdistance2: "Sprint",
    goodpace: "Pace/Late",
    okpace: "Front/End",
-   worstpace: "-"
+   worstpace: "-",
+   pollEmbed: ''
   },
 
   opera: {
@@ -1033,7 +1060,8 @@ matikane: {
    worstdistance2: "Mile/Sprint",
    goodpace: "Pace/Late",
    okpace: "Front",
-   worstpace: "End"
+   worstpace: "End",
+   pollEmbed: ''
   },
 
   taiki: {
@@ -1070,7 +1098,8 @@ matikane: {
    worstdistance2: "Med/Long",
    goodpace: "Pace",
    okpace: "Front",
-   worstpace: "Late/End"
+   worstpace: "Late/End",
+   pollEmbed: ''
   },
 
 
@@ -1108,7 +1137,8 @@ matikane: {
    worstdistance2: "Mile/Sprint",
    goodpace: "Pace",
    okpace: "Late/Front",
-   worstpace: "End"
+   worstpace: "End",
+   pollEmbed: ''
   },
 
   vodka: {
@@ -1145,7 +1175,8 @@ matikane: {
    worstdistance2: "Sprint/Long",
    goodpace: "Late",
    okpace: "Pace/Front",
-   worstpace: "End"
+   worstpace: "End",
+   pollEmbed: ''
   },
 
   ticket: {
@@ -1182,7 +1213,8 @@ matikane: {
    worstdistance2: "Mile/Sprint",
    goodpace: "Late",
    okpace: "Pace",
-   worstpace: "Front/End"
+   worstpace: "Front/End",
+   pollEmbed: ''
   },
 };
 
@@ -1312,5 +1344,11 @@ function loadCharacterData() {
     if (character.worstpace) {
         document.querySelector('.worstpace').textContent = character.worstpace;
     }
+  if (character.pollEmbed) {
+    document.getElementById('poll-container').innerHTML = character.pollEmbed;
 }
+
+    
+}
+
 
