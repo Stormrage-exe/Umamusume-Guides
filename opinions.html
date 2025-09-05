@@ -114,58 +114,49 @@
 </script>
 
 <script>
-    document.addEventListener('DOMContentLoaded', function() {
-
-        const characterId = localStorage.getItem('selectedCharacter');
-        
-        if (characterId && characters[characterId]) {
-
-            const pollContainer = document.getElementById('poll-container');
-            if (pollContainer) {
-                pollContainer.innerHTML = characters[characterId].pollEmbed;
-            }
-
-            document.querySelector('.profilename').textContent = characters[characterId].profilename;
-
-        } else {
-
-            const pollContainer = document.getElementById('poll-container');
-            if (pollContainer) {
-                pollContainer.innerHTML = '<p>Please select a character first.</p>';
-            }
-        }
-    });
-</script>
-
-<script>
 
     function getCurrentCharacter() {
-        const urlParams = new URLSearchParams(window.location.search);
-        return urlParams.get('char');
+        return localStorage.getItem('currentCharacter');
     }
 
-    function handleOpinionsButtonClick() {
+
+    function updateCharacterInfo() {
         const currentCharacter = getCurrentCharacter();
         
-        if (currentCharacter) {
-
-            localStorage.setItem('currentCharacter', currentCharacter);
+        if (currentCharacter && characters[currentCharacter]) {
+            const char = characters[currentCharacter];
             
-
-            window.location.href = 'opinions.html';
+            document.querySelectorAll('.profilename').forEach(el => {
+                el.textContent = char.profilename;
+            });
+            
+            document.querySelector('.profilesubtitle').textContent = char.profilesubtitle;
+            document.querySelector('.profileimage img').src = char.profileimage;
+            document.querySelector('.profileimage img').alt = char.profilename;
+            document.querySelector('.rarity').textContent = char.rarity;
+            document.querySelector('.type').textContent = char.type;
+            document.querySelector('.distance').textContent = char.distance;
+            document.querySelector('.style').textContent = char.style;
+            document.querySelector('.birthday').textContent = char.birthday;
+          
+            const pollContainer = document.getElementById('poll-container');
+            if (pollContainer && char.pollEmbed) {
+                pollContainer.innerHTML = char.pollEmbed;
+            }
         } else {
-            alert('No character selected. Please select a character first.');
+
+            const pollContainer = document.getElementById('poll-container');
+            if (pollContainer) {
+                pollContainer.innerHTML = '<p>Please select a character first from the main page.</p>';
+            }
         }
     }
 
+
     window.addEventListener("load", function() {
-
-        const opinionsButton = document.getElementById('player-opinions-btn');
-        if (opinionsButton) {
-            opinionsButton.addEventListener('click', handleOpinionsButtonClick);
-        }
+        updateCharacterInfo();
         
-
+        
         const characterNames = [
             "airgroove", "tachyon", "biwa", "curren", "scarlet",
             "elcondor", "goldship", "grasswonder", "haru", "halo",
@@ -184,6 +175,10 @@
             const randomIndex = Math.floor(Math.random() * characterNames.length);
             const randomChar = characterNames[randomIndex];
             
+          
+            localStorage.setItem('currentCharacter', randomChar);
+            
+            
             const basePath = window.location.origin;
             let characterURL;
             
@@ -193,12 +188,10 @@
                 characterURL = `${basePath}/character.html?char=${randomChar}`;
             }
             
-            console.log("Redirecting to:", characterURL);
             window.location.href = characterURL; 
         });
     });
 </script>
-
 
 </body>
 </html>
