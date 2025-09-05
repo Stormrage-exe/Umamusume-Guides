@@ -35,7 +35,9 @@ const characters = {
    goodpace: "Pace/Late",
    okpace: "Front",
    worstpace: "End",
-   pollEmbed: `<div class="strawpoll-embed" id="strawpoll_05ZdzE0jbn6" style="height: 480px; max-width: 640px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_05ZdzE0jbn6" src="https://strawpoll.com/embed/05ZdzE0jbn6" style="position: static; visibility: visible; display: block; width: 100%; margin-top: 40px; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>`
+   pollEmbed:[ `<div class="strawpoll-embed" id="strawpoll_05ZdzE0jbn6" style="height: 408px; max-width: 300px; width: 100%; margin: 0 auto; display: flex; flex-direction: column; float:left;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_05ZdzE0jbn6" src="https://strawpoll.com/embed/05ZdzE0jbn6" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>`,
+   ''
+    ]
   },    
 
   tachyon: {
