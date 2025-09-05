@@ -38,6 +38,8 @@ background-color: #3a5a80;
         }
 
 .back-button {
+display: block;
+margin: auto;
 margin-bottom: 20px;
 padding: 8px 16px;
 background-color: #4a6fa5;
