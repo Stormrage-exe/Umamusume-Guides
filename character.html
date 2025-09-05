@@ -10,7 +10,7 @@
     
 <div class="wrapper">
         <header class="wiki-header">
-            <h1>Umamusume Character Wiki</h1>
+             <h1>Umamusume Guides</h1>
             <nav class="main-nav">
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -219,6 +219,26 @@
     });
 </script>
 
+<script>
+
+    function passCharacterToOpinions() {
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const characterId = urlParams.get('char');
+        
+        if (characterId) {
+
+            localStorage.setItem('selectedCharacter', characterId);
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', function() {
+        const opinionsBtn = document.getElementById('player-opinions-btn');
+        if (opinionsBtn) {
+            opinionsBtn.addEventListener('click', passCharacterToOpinions);
+        }
+    });
+</script>
 
 </body>
 </html>

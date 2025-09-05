@@ -10,7 +10,7 @@
     
 <div class="wrapper">
         <header class="wiki-header">
-            <h1>Umamusume Character Wiki</h1>
+             <h1>Umamusume Guides</h1>
             <nav class="main-nav">
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -113,7 +113,29 @@
 
 </script>
 
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
 
+        const characterId = localStorage.getItem('selectedCharacter');
+        
+        if (characterId && characters[characterId]) {
+
+            const pollContainer = document.getElementById('poll-container');
+            if (pollContainer) {
+                pollContainer.innerHTML = characters[characterId].pollEmbed;
+            }
+
+            document.querySelector('.profilename').textContent = characters[characterId].profilename;
+
+        } else {
+
+            const pollContainer = document.getElementById('poll-container');
+            if (pollContainer) {
+                pollContainer.innerHTML = '<p>Please select a character first.</p>';
+            }
+        }
+    });
+</script>
 
 <script>
 
