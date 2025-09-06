@@ -35,8 +35,8 @@ const characters = {
    goodpace: "Pace/Late",
    okpace: "Front",
    worstpace: "End",
-   pollEmbed:[ `<div class="strawpoll-embed" id="strawpoll_05ZdzE0jbn6" style="height: 408px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_05ZdzE0jbn6" src="https://strawpoll.com/embed/05ZdzE0jbn6" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>`,
-   '<div class="strawpoll-embed" id="strawpoll_7rnzVWXQlnO" style="height: 408px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_7rnzVWXQlnO" src="https://strawpoll.com/embed/7rnzVWXQlnO" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+   pollEmbed:[ `<div class="strawpoll-embed" id="strawpoll_05ZdzE0jbn6" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_05ZdzE0jbn6" src="https://strawpoll.com/embed/05ZdzE0jbn6" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>`,
+   '<div class="strawpoll-embed" id="strawpoll_7rnzVWXQlnO" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_7rnzVWXQlnO" src="https://strawpoll.com/embed/7rnzVWXQlnO" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
    '<div class="strawpoll-embed" id="strawpoll_PKgleYXWaZp" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_PKgleYXWaZp" src="https://strawpoll.com/embed/PKgleYXWaZp" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>' ]
   },    
 
@@ -75,7 +75,10 @@ const characters = {
    goodpace: "Pace",
    okpace: "Late",
    worstpace: "Front/End",
-   pollEmbed: ''
+   pollEmbed:[ '<div class="strawpoll-embed" id="strawpoll_40Zm4erlmga" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_40Zm4erlmga" src="https://strawpoll.com/embed/40Zm4erlmga" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '',
+    ''
+    ]
   },    
   
   biwa: {
@@ -113,7 +116,10 @@ const characters = {
    goodpace: "Pace",
    okpace: "Late",
    worstpace: "End/Front",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   }, 
 
     curren:{
@@ -151,7 +157,10 @@ const characters = {
    goodpace: "Pace",
    okpace: "Front",
    worstpace: "Late/End",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
 
   scarlet: {
@@ -189,7 +198,10 @@ const characters = {
    goodpace: "Front/Pace",
    okpace: "Late",
    worstpace: "End",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
 
    elcondor: {
@@ -227,7 +239,10 @@ const characters = {
    goodpace: "Pace/Late",
    okpace: "End",
    worstpace: "Front",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
 
 goldship:{
@@ -265,7 +280,10 @@ goldship:{
    goodpace: "End",
    okpace: "Pace/Late",
    worstpace: "Front",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
 
   grasswonder: {
@@ -303,7 +321,10 @@ goldship:{
    goodpace: "Pace/Late",
    okpace: "",
    worstpace: "Front/End",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
 
   haru: {
@@ -341,7 +362,10 @@ goldship:{
    goodpace: "Late",
    okpace: "End",
    worstpace: "Pace/Front",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
 
   halo: {
@@ -379,7 +403,10 @@ goldship:{
    goodpace: "Late",
    okpace: "Pace",
    worstpace: "End/Front",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
 
   },
 
@@ -418,7 +445,10 @@ goldship:{
    goodpace: "Front",
    okpace: "Pace",
    worstpace: "Late/End",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
 
 matikane: {
@@ -456,7 +486,10 @@ matikane: {
    goodpace: "Late",
    okpace: "Pace",
    worstpace: "End/Front",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
 
   mayano: {
@@ -494,7 +527,10 @@ matikane: {
    goodpace: "Front/Pace",
    okpace: "Late/End",
    worstpace: "-",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
 
   mcqueen: {
@@ -532,7 +568,10 @@ matikane: {
    goodpace: "Pace",
    okpace: "Front/Late",
    worstpace: "End",
-   pollEmbed: ''
+   pollEmbed:  ['',
+    '',
+    ''
+   ]
   },
   narita: {
       personality: "A cold and formidable runner whose speed leaves both awe and fear in her wake. At Tracen Academy, her very presence inspires respect, if not dread. She runs for no one but herself, chasing only the thirst within. Despite her stern demeanor, she is the younger sister of Biwa Hayahide and serves, somewhat surprisingly, as the vice president of the student council.",
@@ -569,7 +608,10 @@ matikane: {
    goodpace: "Pace/Late",
    okpace: "End",
    worstpace: "Front",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   ryan: {
@@ -607,7 +649,10 @@ matikane: {
    goodpace: "Pace/Late",
    okpace: "-",
    worstpace: "Front/End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
  bourbon: {
@@ -645,7 +690,10 @@ matikane: {
    goodpace: "Front",
    okpace: "-",
    worstpace: "Pace/Late/End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   taishin: {
@@ -683,7 +731,10 @@ matikane: {
    goodpace: "End",
    okpace: "Late",
    worstpace: "Pace/Front",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   nature: {
@@ -721,7 +772,10 @@ matikane: {
    goodpace: "Late",
    okpace: "Pace/End",
    worstpace: "Front",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   oguri: {
@@ -759,7 +813,10 @@ matikane: {
    goodpace: "Pace/Late",
    okpace: "End",
    worstpace: "Front",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   riceshower: {
@@ -797,7 +854,10 @@ matikane: {
    goodpace: "Pace",
    okpace: "Front/Late",
    worstpace: "End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   bakushin: {
@@ -835,7 +895,10 @@ matikane: {
    goodpace: "Front/Pace",
    okpace: "-",
    worstpace: "Late/End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   }, 
 
   falcon: {
@@ -873,7 +936,10 @@ matikane: {
    goodpace: "Front",
    okpace: "Pace",
    worstpace: "End/Late",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   }, 
 
   suzuka: {
@@ -911,7 +977,10 @@ matikane: {
    goodpace: "Front",
    okpace: "Pace",
    worstpace: "Late/End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   }, 
 
   specialweek: {
@@ -949,7 +1018,10 @@ matikane: {
    goodpace: "Pace/Late",
    okpace: "End",
    worstpace: "Front",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   supercreek: {
@@ -987,7 +1059,10 @@ matikane: {
    goodpace: "Pace",
    okpace: "Late",
    worstpace: "Front/End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   rudolf: {
@@ -1025,7 +1100,10 @@ matikane: {
    goodpace: "Pace/Late",
    okpace: "Front/End",
    worstpace: "-",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   opera: {
@@ -1063,7 +1141,10 @@ matikane: {
    goodpace: "Pace/Late",
    okpace: "Front",
    worstpace: "End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   taiki: {
@@ -1101,7 +1182,10 @@ matikane: {
    goodpace: "Pace",
    okpace: "Front",
    worstpace: "Late/End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
 
@@ -1140,7 +1224,10 @@ matikane: {
    goodpace: "Pace",
    okpace: "Late/Front",
    worstpace: "End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   vodka: {
@@ -1178,7 +1265,10 @@ matikane: {
    goodpace: "Late",
    okpace: "Pace/Front",
    worstpace: "End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 
   ticket: {
@@ -1216,7 +1306,10 @@ matikane: {
    goodpace: "Late",
    okpace: "Pace",
    worstpace: "Front/End",
-   pollEmbed: ''
+   pollEmbed: ['',
+    '',
+    ''
+   ]
   },
 };
 
