@@ -690,9 +690,9 @@ matikane: {
    goodpace: "Front",
    okpace: "-",
    worstpace: "Pace/Late/End",
-   pollEmbed: ['',
-    '',
-    ''
+   pollEmbed: ['<div class="strawpoll-embed" id="strawpoll_7rnzVWwJanO" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_7rnzVWwJanO" src="https://strawpoll.com/embed/7rnzVWwJanO" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_e6Z2AB0JXgN" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_e6Z2AB0JXgN" src="https://strawpoll.com/embed/e6Z2AB0JXgN" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_w4nWWVAmQnA" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_w4nWWVAmQnA" src="https://strawpoll.com/embed/w4nWWVAmQnA" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
    ]
   },
 
