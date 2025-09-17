@@ -1311,6 +1311,49 @@ matikane: {
     '<div class="strawpoll-embed" id="strawpoll_X3nkP7X9EgE" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_X3nkP7X9EgE" src="https://strawpoll.com/embed/X3nkP7X9EgE" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
    ]
   },
+
+  sky: {
+    personality: "Easygoing and laid-back, she moves through life at her own rhythm. On the surface, she seems lazy, but often it’s just a clever act to lower others’ guard. Behind that relaxed exterior is someone sharper than she lets on… occasionally. Her favorite pastimes are afternoon naps and fishing, and she has a soft spot for cats — often found curled up with them in the grass. She’s also classmates with Special Week.",
+    trait1: "Strength: Napping, fishing.",
+    trait2: "Weaknesses: Small, confined spaces (especially the starting gate!)",
+    trait3: "Family: Goes fishing with her grandfather whenever she returns home.",
+    trait4: "Pre-Race Ritual: Always waits for others to enter the gate first.",
+    trait5: "Secret: She absolutely cannot handle hot food. Also dislikes clothing that feels tight around her neck.",
+    speedpriority: "900-1000",
+    staminapriority: "800-900",
+    powerpriority: "500-600",
+    gutspriority: "300-400",
+   witspriority: "300-400",
+   skill1: "Cooldown",
+   skill2: "Swinging Maestro",
+   skill3: "Vanguard Spirit",
+   besttotrain: "Focus on speed,then on stamina,power,guts and wits.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Med/Long", 
+   okdistance: "Mile", 
+   worstdistance: "Sprint", 
+   track: "She performs best on turf tracks.",
+   profileimage: "https://umamusu.wiki/w/thumb.php?f=Seiun_Sky_%28Icon%29.png&width=140",
+   profilename: "Seiun Sky",
+   profilesubtitle: " 'Trickster' ",
+   rarity: "★★★",
+   type: "Speed/Stamina",
+   distance: "Med/Long",
+   style: "Front",
+   birthday: "April 26",
+   gooddistance2: "Med/Long",
+   okdistance2: "Mile",
+   worstdistance2: "Sprint",
+   goodpace: "Front",
+   okpace: "Pace",
+   worstpace: "Late/End",
+   pollEmbed: [
+    '<div class="strawpoll-embed" id="strawpoll_kogjR2vWvg6" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_kogjR2vWvg6" src="https://strawpoll.com/embed/kogjR2vWvg6" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_GJn44BGE7nz" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GJn44BGE7nz" src="https://strawpoll.com/embed/GJn44BGE7nz" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_NMnQNDBXWg6" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NMnQNDBXWg6" src="https://strawpoll.com/embed/NMnQNDBXWg6" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+   ]
+  }
+
 };
 
 
