@@ -8,7 +8,7 @@ Live Site: https://stormrage-exe.github.io/Umamusume-Guides/
 </p>
 
 ![Umamusume Site Preview](https://i.postimg.cc/76yk3S8g/bandicam-2025-09-03-10-51-29-863.jpg)
-![Umamusume Site Preview](https://i.postimg.cc/pLTzvnSY/bandicam-2025-09-03-10-51-38-956.jpg)
+![Umamusume Site Preview](https://i.postimg.cc/W30xSrnb/bandicam-2025-09-16-17-26-56-496.jpg)
 
 
 <p align="center">
@@ -30,6 +30,7 @@ This site covers all characters available on the global server as of the latest 
 • Recommended Distances: What distances they best perform on (Mile, Med, Sprint, Long). <br>
 • Track Compatibility: Performance on Turf vs. Dirt tracks. <br>
 • Overall Abilities: How well the characters perform on all distances and paces. <br>
+• Player Opinions/Votes: Votes from players on multiple questions!
 </p>
 
 <h2 align="center">
