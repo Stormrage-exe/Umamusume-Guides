@@ -381,7 +381,73 @@ p{
     float:right;
 }
 
+        
+        .month {
+        padding: 30px;
+         width: 100%;
+          background: hotpink;
+          text-align: center;
+        }
+        
+        .month ul {
+         margin: 0;
+         padding: 0;
+        }
+        
+        .month ul li {
+        color: white;
+        font-size: 24px;
+        text-transform: uppercase;
+         letter-spacing: 3px;
+         font-weight: bold;
+         text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+        }
+        
+        
+        .days {
+        padding: 20px;
+        background: #fff;
+        margin: 0;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+         gap: 10px;
+        }
+        
+    .days li {
+        list-style-type: none;
+        width: calc(100% / 7 - 10px);
+        height: 80px;
+        text-align: center;
+        font-size: 18px;
+        color: #333;
+        background: #f9f9f9;
+        border: 2px solid #f5aaf1;
+        border-radius: 8px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+        }
+        
+    .days li:hover {
+     background: hotpink;
+    color: white;
+    transform: translateY(-3px);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+       }
+        
+    .days li .active {
+    padding: 5px;
+    background: #f5aaf1;
+    color: white !important;
+       }
 
+       .calendartext{
+       font-size: 13px;
+       }
 
 
 @media (max-width: 768px) {
@@ -401,4 +467,73 @@ p{
     .profile-image img {
         max-width: 300px;
     }
+
+    .calendar-header h1 {
+    font-size: 20px;
+            }
+            
+    .month ul li {
+    font-size: 20px;
+            }
+            
+    .weekdays li {
+    font-size: 14px;
+            }
+            
+    .days li {
+    width: calc(100% / 7 - 8px);
+    height: 70px;
+    font-size: 16px;
+    gap: 5px;
+            }
+            
+    .event-dot {
+    bottom: 6px;
+            }
 }
+
+ @media (max-width: 480px) {
+
+            .calendar-header {
+                padding: 15px;
+            }
+            
+            .calendar-header h1 {
+                font-size: 20px;
+            }
+            
+            .nav-btn {
+                width: 35px;
+                height: 35px;
+            }
+            
+            .month {
+                padding: 15px;
+            }
+            
+            .month ul li {
+                font-size: 20px;
+            }
+            
+            .days {
+                padding: 15px;
+                gap: 12px;
+            }
+            
+            .days li {
+                width: calc(100% / 3 - 12px);
+                height: 140px;
+            }
+            
+            .day-number {
+                font-size: 16px;
+            }
+            
+            .day-content {
+                font-size: 10px;
+            }
+            
+            .day-content img {
+                max-height: 35px;
+            }
+        }

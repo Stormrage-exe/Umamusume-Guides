@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Umamusume Guides</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    
+<div class="wrapper">
+        <header class="wiki-header">
+            <h1>Umamusume Guides</h1>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="#" id="random-character">Random Character</a></li>
+                    <li><a href="calendar.html">Event Calendar</a></li>
+                    <li><a href="about.html">About</a></li>
+                </ul>
+            </nav>
+            
+        </header>
+
+        <main class="wiki-content">
+  
+            <div class="month">
+  <ul>
+    <li>September<br><span style="font-size:18px">2025</span></li>
+  </ul>
+</div>
+
+<ul class="days">
+  <li>1</li>
+  <li>2</li>
+  <li>3</li>
+  <li>4</li>
+  <li>5</li>
+  <li>6</li>
+  <li><img src="https://umamusu.wiki/w/thumb.php?f=Seiun_Sky_%28Icon%29.png&width=70"></li>
+  <li>8</li>
+  <li><p class="calendartext">Silence Suzuka + Tamamo Cross Support Cards</p></li>
+  <li>10</li>
+  <li>11</li>
+<li>12</li>
+<li>13</li>
+<li>14</li>
+<li>15</li>
+<li>16</li>
+<li><img src="https://umamusu.wiki/w/thumb.php?f=Hishi_Amazon_%28Icon%29.png&width=70"></li>
+<li>18</li>
+<li>19</li>
+<li>20</li>
+<li><p class="calendartext">El Condor Pasa(Monk) + Grass Wonder(Healer)</p></li>
+<li>22</li>
+<li>23</li>
+<li>24</li>
+<li>25</li>
+<li>26</li>
+<li>27</li>
+<li>28</li>
+<li>29</li>
+<li>30</li>
+
+</ul>
+        
+        </main>
+
+        <footer class="wiki-footer">
+            
+            <p>Umamusume is a registered trademark of Cygames.</p>
+        </footer>
+    </div>
+
+<script src="script.js">
+
+</script>
+
+<script>
+    window.addEventListener("load", function() {
+const characterNames = [
+                "airgroove", "tachyon", "biwa", "curren", "scarlet",
+                "elcondor", "goldship", "grasswonder", "haru", "halo",
+                "maruzensky", "matikane", "mayano", "mcqueen", "ryan",
+                "bourbon", "narita", "taishin", "nature", "oguri",
+                "riceshower", "bakushin", "falcon", "suzuka", "specialweek",
+                "supercreek", "rudolf", "opera", "taiki", "teio",
+                "vodka", "ticket"
+            ];
+
+  
+            const randomLink = document.getElementById("random-character");
+
+            randomLink.addEventListener("click", function(e) {
+                e.preventDefault(); 
+                
+                const randomIndex = Math.floor(Math.random() * characterNames.length);
+                const randomChar = characterNames[randomIndex];
+                
+                
+                const basePath = window.location.origin;
+                let characterURL;
+                
+                if (basePath.includes('github.io')) {
+                    
+                    characterURL = `${basePath}/Umamusume-Guides/character.html?char=${randomChar}`;
+                } else {
+                
+                    characterURL = `${basePath}/character.html?char=${randomChar}`;
+                }
+                
+                console.log("Redirecting to:", characterURL);
+                window.location.href = characterURL; 
+            });
+        });
+</script>
+
+
+</body>
+</html>
