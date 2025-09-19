@@ -1333,7 +1333,7 @@ matikane: {
    okdistance: "Mile", 
    worstdistance: "Sprint", 
    track: "She performs best on turf tracks.",
-   profileimage: "https://umamusu.wiki/w/thumb.php?f=Seiun_Sky_%28Icon%29.png&width=140",
+   profileimage: "https://umamusu.wiki/w/thumb.php?f=Seiun_Sky_%28Icon%29.png&width=300",
    profilename: "Seiun Sky",
    profilesubtitle: " 'Trickster' ",
    rarity: "★★★",
@@ -1352,6 +1352,49 @@ matikane: {
     '<div class="strawpoll-embed" id="strawpoll_GJn44BGE7nz" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GJn44BGE7nz" src="https://strawpoll.com/embed/GJn44BGE7nz" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
     '<div class="strawpoll-embed" id="strawpoll_NMnQNDBXWg6" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NMnQNDBXWg6" src="https://strawpoll.com/embed/NMnQNDBXWg6" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
    ]
+  },
+
+ amazon: {
+     personality: "A passionate and hot-blooded racer, she thrives on one-on-one competition. While most see her as a fierce rival, she never forgets her sportsmanship — always offering genuine congratulations to those who defeat her. As the strong-willed and sometimes hot-tempered leader of Miho Dormitory, she’s also surprisingly dependable, with skills in cooking, cleaning, and laundry. Just don’t bring up ghosts or thunderstorms… those are her weak spots.",
+    trait1: "Strength: Making delicious homemade meals.",
+    trait2: "Weaknesses: Thinking things through before acting.",
+    trait3: "Family: The youngest child in her family — she inherited her caring nature from her mother.",
+    trait4: "Pre-Race Ritual: Receives cheers and encouragement from her juniors and dormmates.",
+    trait5: "Secret: Uses a unique ironing cloth for her uniforms.",
+    speedpriority: "1000",
+    staminapriority: "700",
+    powerpriority: "800	",
+    gutspriority: "300",
+   witspriority: "400",
+   skill1: "Standing By",
+   skill2: "Swinging Maestro",
+   skill3: "Professor of Curvature",
+   besttotrain: "Focus on speed,then on power,stamina,wits and guts.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Mile/Med", 
+   okdistance: "Long", 
+   worstdistance: "Sprint", 
+   track: "She performs best on turf tracks.",
+   profileimage: "https://umamusu.wiki/w/thumb.php?f=Hishi_Amazon_%28Icon%29.png&width=300",
+   profilename: "Hishi Amazon",
+   profilesubtitle: " 'Queen of the Amazons' ",
+   rarity: "★★★",
+   type: "Speed/Power",
+   distance: "Mile/Med",
+   style: "End",
+   birthday: "March 26",
+   gooddistance2: "Mile/Med",
+   okdistance2: "Long",
+   worstdistance2: "Sprint",
+   goodpace: "End",
+   okpace: "Pace/Late",
+   worstpace: "Front",
+   pollEmbed: [
+    '<div class="strawpoll-embed" id="strawpoll_GPgVYBpY8na" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GPgVYBpY8na" src="https://strawpoll.com/embed/GPgVYBpY8na" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_GeZARMoR1yV" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GeZARMoR1yV" src="https://strawpoll.com/embed/GeZARMoR1yV" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_2ayLQBbQ3n4" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_2ayLQBbQ3n4" src="https://strawpoll.com/embed/2ayLQBbQ3n4" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+   ]
+   
   }
 
 };
