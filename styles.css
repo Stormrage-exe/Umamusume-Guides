@@ -445,9 +445,17 @@ p{
     color: white !important;
        }
 
-       .calendartext{
-       font-size: 13px;
-       }
+      .calendartext {
+  margin: 0;
+  padding: 4px;
+  text-align: center;
+  word-wrap: break-word;
+  max-width: 100%;
+  font-size: 13px;
+  line-height: 1.2;
+}
+
+       
 
 
 @media (max-width: 768px) {
