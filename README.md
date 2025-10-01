@@ -4,7 +4,7 @@
 
 
 <p align="center">
-Live Site: https://stormrage-exe.github.io/Umamusume-Guides/
+Live Site: https://umamusumeguides.netlify.app
 </p>
 
 ![Umamusume Site Preview](https://i.postimg.cc/YSpS0wrK/game-Review.gif)
