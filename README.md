@@ -7,8 +7,8 @@
 Live Site: https://stormrage-exe.github.io/Umamusume-Guides/
 </p>
 
-![Umamusume Site Preview](https://i.postimg.cc/76yk3S8g/bandicam-2025-09-03-10-51-29-863.jpg)
-![Umamusume Site Preview](https://i.postimg.cc/W30xSrnb/bandicam-2025-09-16-17-26-56-496.jpg)
+![Umamusume Site Preview](https://i.postimg.cc/YSpS0wrK/game-Review.gif)
+
 
 
 <p align="center">
