@@ -456,6 +456,12 @@ transition: background-color 0.2s;
 background-color: #3a5a80;
         }
 
+#thumbnaill{
+width:50%;
+  display: block; 
+  margin: 0 auto; 
+}
+
 
 @media (max-width: 768px) {
 
