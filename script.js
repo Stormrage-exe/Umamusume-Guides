@@ -1401,7 +1401,8 @@ matikane: {
 
 
 document.addEventListener('DOMContentLoaded', function() {
-    if (window.location.pathname.includes('character.html')){
+
+    if (window.location.pathname.includes('character.html') || window.location.pathname === '/character') {
         loadCharacterData();
     }
 });
