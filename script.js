@@ -1394,7 +1394,6 @@ matikane: {
     '<div class="strawpoll-embed" id="strawpoll_GeZARMoR1yV" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GeZARMoR1yV" src="https://strawpoll.com/embed/GeZARMoR1yV" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
     '<div class="strawpoll-embed" id="strawpoll_2ayLQBbQ3n4" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_2ayLQBbQ3n4" src="https://strawpoll.com/embed/2ayLQBbQ3n4" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
    ]
-   
   }
 
 };
