@@ -27,10 +27,30 @@
               <div style="text-align: center; margin: 20px 0;">
                 <button class="opinions-button" id="player-opinions-btn">Player Opinions</button>
             </div>
+            
+                    <div class="wrapper" align="center">
+<button id="download">Download Page as PNG</button>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+
+<script>
+document.getElementById("download").addEventListener("click", function() {
+    html2canvas(document.body, {useCORS: true}).then(function(canvas) {
+        var link = document.createElement('a');
+        link.download = 'umamusume-guide.png';
+        link.href = canvas.toDataURL("image/png");
+        link.click();
+    }).catch(function(err){
+        console.error('Error generating image:', err);
+    });
+});
+</script>
 
 <div class="character-container">
                 
                 <div class="character-details">
+      
                     <h1 class="profilename"></h1>
                     
                     <section class="character-section">

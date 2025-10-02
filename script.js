@@ -21,7 +21,7 @@ const characters = {
    okdistance: "Sprint", 
    worstdistance: "Long", 
    track: "She performs best on turf tracks.",
-   profileimage: "https://umamusu.wiki/w/thumb.php?f=Air_Groove_%28Icon%29.png&width=300",
+   profileimage: "images/Air_Groove_(Icon).png",
    profilename: "Air Groove",
    profilesubtitle: " 'Empress' ",
    rarity: "★★",

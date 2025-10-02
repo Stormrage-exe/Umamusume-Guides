@@ -184,37 +184,6 @@ p{
     margin: 5px 0;
 }
 
-@media (max-width: 768px) {
-    .character-row {
-        flex-wrap: wrap;
-        justify-content: space-around;
-    }
-    
-    .character-card {
-        width: 30%;
-        margin-bottom: 15px;
-    }
-    
-    .main-nav ul {
-        flex-wrap: wrap;
-    }
-    
-    .main-nav li {
-        margin: 5px 10px;
-    }
-}
-
-@media (max-width: 480px) {
-    .character-card {
-        width: 45%;
-    }
-    
-    .wiki-header h1 {
-        font-size: 2rem;
-    }
-}
-
-
 .character-container {
     display: flex;
     gap: 30px;
@@ -455,10 +424,58 @@ p{
   line-height: 1.2;
 }
 
+.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+.vertical-center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+#download{
+background-color: #4a6fa5;
+color:white;
+border: none;
+padding: 10px 20px;
+border-radius: 4px;
+cursor: pointer;
+font-weight: bold;
+margin: 1px 0;
+transition: background-color 0.2s;
+        
+}
        
+#download:hover {
+background-color: #3a5a80;
+        }
 
 
 @media (max-width: 768px) {
+
+  .character-row {
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+    
+    .character-card {
+        width: 30%;
+        margin-bottom: 15px;
+    }
+    
+    .main-nav ul {
+        flex-wrap: wrap;
+    }
+    
+    .main-nav li {
+        margin: 5px 10px;
+    }
+
     .character-container {
         flex-direction: column;
     }
@@ -501,6 +518,14 @@ p{
 }
 
  @media (max-width: 480px) {
+
+     .character-card {
+        width: 45%;
+    }
+    
+    .wiki-header h1 {
+        font-size: 2rem;
+    }
 
             .calendar-header {
                 padding: 15px;
