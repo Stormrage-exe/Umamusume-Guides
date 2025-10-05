@@ -1394,7 +1394,50 @@ matikane: {
     '<div class="strawpoll-embed" id="strawpoll_GeZARMoR1yV" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GeZARMoR1yV" src="https://strawpoll.com/embed/GeZARMoR1yV" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
     '<div class="strawpoll-embed" id="strawpoll_2ayLQBbQ3n4" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_2ayLQBbQ3n4" src="https://strawpoll.com/embed/2ayLQBbQ3n4" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
    ]
+  },
+fuji: {
+      personality: "A graceful performer who never hesitates to take a fellow runner’s hand with care. She’s not one for flirtint,instead, she dedicates herself to supporting her dear ponies as the leader of Ritto Dormitory. As a racer, she dreams of captivating the crowd just as her mother, a stage actress, once did. Her ultimate goal: conquering the Triple Crown.",
+    trait1: "Strength: Surprising and delighting people.",
+    trait2: "Weaknesses: Sweets.",
+    trait3: "Family: Born into a traveling theater family; her parents perform across the country.",
+    trait4: "Pre-Race Ritual: Performs a deep three-sided bow to the audience.",
+    trait5: "Secret: She can make a dove appear from a top hat,or make a top hat appear from nothing!",
+    speedpriority: "900",
+    staminapriority: "600",
+    powerpriority: "700",
+    gutspriority: "300",
+   witspriority: "400",
+   skill1: "Swinging Maestro",
+   skill2: "Professor of Curvature",
+   skill3: "Triumphant Pulse",
+   besttotrain: "Focus on speed,then on power,stamina,wits and guts.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Mile", 
+   okdistance: "Sprint/Med", 
+   worstdistance: "Long", 
+   track: "She performs best on turf tracks.",
+   profileimage: "images/Fuji_Kiseki_(Icon).png",
+   profilename: "Fuji Kiseki",
+   profilesubtitle: " 'Beautiful Triple Crown Umamusume' ",
+   rarity: "★★★",
+   type: "Speed/Power",
+   distance: "Mile",
+   style: "Pace",
+   birthday: "April 15",
+   gooddistance2: "Mile",
+   okdistance2: "Sprint/Med",
+   worstdistance2: "Long",
+   goodpace: "Pace",
+   okpace: "Front/Late",
+   worstpace: "End",
+    pollEmbed: [
+    '<div class="strawpoll-embed" id="strawpoll_3RnYX9razye" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_3RnYX9razye" src="https://strawpoll.com/embed/3RnYX9razye" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+   '<div class="strawpoll-embed" id="strawpoll_QrgewEWQjyp" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_QrgewEWQjyp" src="https://strawpoll.com/embed/QrgewEWQjyp" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+   '<div class="strawpoll-embed" id="strawpoll_Q0Zp7poexgM" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_Q0Zp7poexgM" src="https://strawpoll.com/embed/Q0Zp7poexgM" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+   ]
   }
+
+
 
 };
 
