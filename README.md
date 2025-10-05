@@ -30,7 +30,9 @@ This site covers all characters available on the global server as of the latest 
 • Recommended Distances: What distances they best perform on (Mile, Med, Sprint, Long). <br>
 • Track Compatibility: Performance on Turf vs. Dirt tracks. <br>
 • Overall Abilities: How well the characters perform on all distances and paces. <br>
-• Player Opinions/Votes: Votes from players on multiple questions!
+• Player Opinions/Votes: Votes from players on multiple questions! <br>
+• Event Calendar: Find out who the upcoming characters are! <br>
+• Download Page as PNG: For whenever you don't feel like checking the site. You can simply download a picture of the page!
 </p>
 
 <h2 align="center">
