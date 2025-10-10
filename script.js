@@ -1435,9 +1435,49 @@ fuji: {
    '<div class="strawpoll-embed" id="strawpoll_QrgewEWQjyp" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_QrgewEWQjyp" src="https://strawpoll.com/embed/QrgewEWQjyp" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
    '<div class="strawpoll-embed" id="strawpoll_Q0Zp7poexgM" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_Q0Zp7poexgM" src="https://strawpoll.com/embed/Q0Zp7poexgM" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
    ]
+  },
+
+goldcity: {
+      personality: "A breathtaking beauty said to appear only once in a century. She’s modeled for as long as she can remember and naturally carries herself with poise and confidence. But one day, she discovered that her true passion lies not on the runway,but on the racetrack. From that moment on, she has run toward her dream of being recognized not for her looks, but for her skill. Her closest confidant and biggest supporter is her dear friend, Tosen Jordan.",
+    trait1: "Strength: Model walking.",
+    trait2: "Weaknesses: Waking up early.",
+    trait3: "Family: Her mother’s skin is flawless, and her father’s hair shines a brilliant blonde.",
+    trait4: "Pre-Race Ritual: Avoids checking social media.",
+    trait5: "Secret: Her alarm clock goes off every two minutes… repeatedly.",
+    speedpriority: "900",
+    staminapriority: "600",
+    powerpriority: "800",
+    gutspriority: "300",
+   witspriority: "400",
+   skill1: "Straightaway Recovery",
+   skill2: "Straightaway Acceleration",
+   skill3: "Homestretch Haste",
+   besttotrain: "Focus on speed,then on power,stamina,wjts and guts.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Mile", 
+   okdistance: "Med/Long", 
+   worstdistance: "Sprint", 
+   track: "She performs best on turf tracks.",
+   profileimage: "images/Gold_City_(Icon).png",
+   profilename: "Gold City",
+   profilesubtitle: " 'Beauty of the Century' ",
+   rarity: "★★★",
+   type: "Speed/Power",
+   distance: "Mile",
+   style: "Pace/Late",
+   birthday: "April 16",
+   gooddistance2: "Mile",
+   okdistance2: "Med/Long",
+   worstdistance2: "Sprint",
+   goodpace: "Pace/Late",
+   okpace: "-",
+   worstpace: "Front/End",
+   pollEmbed: [
+    '<div class="strawpoll-embed" id="strawpoll_7rnzVWXQlnO" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_7rnzVWXQlnO" src="https://strawpoll.com/embed/7rnzVWXQlnO" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_NPgxebKKrZ2" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NPgxebKKrZ2" src="https://strawpoll.com/embed/NPgxebKKrZ2" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_6QnMQoWWane" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_6QnMQoWWane" src="https://strawpoll.com/embed/6QnMQoWWane" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+   ]
   }
-
-
 
 };
 
