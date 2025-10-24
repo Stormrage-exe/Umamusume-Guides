@@ -1477,7 +1477,50 @@ goldcity: {
     '<div class="strawpoll-embed" id="strawpoll_NPgxebKKrZ2" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NPgxebKKrZ2" src="https://strawpoll.com/embed/NPgxebKKrZ2" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
     '<div class="strawpoll-embed" id="strawpoll_6QnMQoWWane" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_6QnMQoWWane" src="https://strawpoll.com/embed/6QnMQoWWane" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
    ]
+  },
+
+  doto: {
+    personality: "Her confidence tends to droop as low as her ears, and she’s no stranger to clumsy mistakes. Yet despite her worries and setbacks, she gives her all to become someone stronger and brighter. Deep down, she dreams of a day when she can stand tall with pride and self-assurance, much like the confident T.M. Opera O whom she deeply admires.",
+    trait1: "Strength: Perseverance, Enka singing",
+    trait2: "Weaknesses: Tongue twisters",
+    trait3: "Family: Her family moves around often, so she’s picked up a knack for learning new languages.",
+    trait4: "Pre-Race Ritual: Carefully checks each of the day’s essentials to make sure nothing’s forgotten.",
+    trait5: "Secret: She’s a big fan of spicy food.",
+    speedpriority: "900",
+    staminapriority: "900",
+    powerpriority: "700",
+    gutspriority: "300",
+   witspriority: "300",
+   skill1: "Pace Chaser Corners ◎",
+   skill2: "Pace Chaser Straightaways ◎",
+   skill3: "Homestretch Haste",
+   besttotrain: "Focus on speed,then on stamina,power,guts and wits.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Med/Long", 
+   okdistance: "-", 
+   worstdistance: "Mile/Sprint", 
+   track: "She performs best on turf tracks.",
+   profileimage: "images/Meisho_Doto_(Icon).png",
+   profilename: "Meisho Doto",
+   profilesubtitle: " 'Unrelenting Challenger' ",
+   rarity: "★★★",
+   type: "Speed/Stamina",
+   distance: "Med/Long",
+   style: "Pace",
+   birthday: "March 25",
+   gooddistance2: "Med/Long",
+   okdistance2: "-",
+   worstdistance2: "Mile/Sprint",
+   goodpace: "Pace",
+   okpace: "Late",
+   worstpace: "End/Front",
+     pollEmbed: [
+    '<div class="strawpoll-embed" id="strawpoll_B2ZB9x4bAgJ" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_B2ZB9x4bAgJ" src="https://strawpoll.com/embed/B2ZB9x4bAgJ" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_BJnXVkQqXZv" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_BJnXVkQqXZv" src="https://strawpoll.com/embed/BJnXVkQqXZv" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_PbZqbkABKyN" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_PbZqbkABKyN" src="https://strawpoll.com/embed/PbZqbkABKyN" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+   ]
   }
+
 
 };
 
