@@ -1519,6 +1519,48 @@ goldcity: {
     '<div class="strawpoll-embed" id="strawpoll_BJnXVkQqXZv" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_BJnXVkQqXZv" src="https://strawpoll.com/embed/BJnXVkQqXZv" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
     '<div class="strawpoll-embed" id="strawpoll_PbZqbkABKyN" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_PbZqbkABKyN" src="https://strawpoll.com/embed/PbZqbkABKyN" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
    ]
+  },
+
+  eishin: {
+      personality: "A meticulous and hard-working exchange student from Germany, she structures her life down to the very second. Every action is part of a carefully planned schedule, and she rarely leaves anything to chance. Her love of baking perfectly reflects her nature,where even the slightest measurement error can mean disaster. Yet, this same dedication often causes her to panic when faced with the unexpected.",
+    trait1: "Strength: Recreating art pieces with perfect accuracy.",
+    trait2: "Weaknesses: Original art (anything that requires improvisation).",
+    trait3: "Family: They run a cake shop renowned for its baumkuchen.",
+    trait4: "Pre-Race Ritual: She serves as the “clock” for her fellow Umamusume, keeping everyone on time.",
+    trait5: "Secret: She’s surprisingly good at reading storybooks aloud.",
+    speedpriority: "900",
+    staminapriority: "800",
+    powerpriority: "800",
+    gutspriority: "300",
+   witspriority: "400",
+   skill1: "Nimble Navigator",
+   skill2: "Swinging Maestro",
+   skill3: "Late Surger Corners ◎",
+   besttotrain: "Focus on speed,then on stamina,power,wits and guts.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Med/Long", 
+   okdistance: "-", 
+   worstdistance: "Mile/Sprint", 
+   track: "She performs best on turf tracks.",
+   profileimage: "images/Eishin_Flash_(Icon).png",
+   profilename: "Eishin Flash",
+   profilesubtitle: " 'linding Flash' ",
+   rarity: "★★★",
+   type: "Speed",
+   distance: "Med/Long",
+   style: "Late",
+   birthday: "March 27",
+   gooddistance2: "Med/Long",
+   okdistance2: "-",
+   worstdistance2: "Mile/Sprint",
+   goodpace: "Late",
+   okpace: "Pace/End",
+   worstpace: "Front",
+    pollEmbed: [
+    '<div class="strawpoll-embed" id="strawpoll_wby5Qak2jyA" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_wby5Qak2jyA" src="https://strawpoll.com/embed/wby5Qak2jyA" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_NMnQNP7dWg6" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NMnQNP7dWg6" src="https://strawpoll.com/embed/NMnQNP7dWg6" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_NPgxeOW7PZ2" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NPgxeOW7PZ2" src="https://strawpoll.com/embed/NPgxeOW7PZ2" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+   ]
   }
 
 
