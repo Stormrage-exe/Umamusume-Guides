@@ -1561,10 +1561,55 @@ goldcity: {
     '<div class="strawpoll-embed" id="strawpoll_NMnQNP7dWg6" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NMnQNP7dWg6" src="https://strawpoll.com/embed/NMnQNP7dWg6" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
     '<div class="strawpoll-embed" id="strawpoll_NPgxeOW7PZ2" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NPgxeOW7PZ2" src="https://strawpoll.com/embed/NPgxeOW7PZ2" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
    ]
-  }
+  },
+
+  hishiakebono: {
+      personality: "A generous chef who loves feeding others just as much as she loves enjoying a good meal herself. Gentle, warm, and always smiling, she lives for the moment she sees others savor her cooking. Born abroad, she grew up idolizing sumo wrestlers and even dreamed of becoming a chanko hot pot,yes, really! Though she considered life in the ring, the racetrack ultimately won her heart.",
+    trait1: "Strength: Making sweets, sumo wrestling.",
+    trait2: "Weaknesses: Hot-pot perfectionists.",
+    trait3: "Family: Her father is a master chef and her mother teaches confectionery.",
+    trait4: "Pre-Race Ritual: She asks her mom for a sweet treat as her post-race reward.",
+    trait5: "Secret: She burns through notebooks at a terrifying pace.",
+    speedpriority: "1200",
+    staminapriority: "500",
+    powerpriority: "900",
+    gutspriority: "400",
+   witspriority: "400",
+   skill1: "Straightaway Acceleration",
+   skill2: "Professor of Curvature",
+   skill3: "Swinging Maestro",
+   besttotrain: "Focus on Speed,then on Power,Stamina,Guts and Wits.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Sprint", 
+   okdistance: "Mile", 
+   worstdistance: "Med/Long", 
+   track: "She performs best on turf tracks.",
+   profileimage: "images/Hishi_Akebono_(Icon).png",
+   profilename: "Hishi Akebono",
+   profilesubtitle: " 'Colossus' ",
+   rarity: "★★★",
+   type: "Speed/Power",
+   distance: "Sprint",
+   style: "Pace",
+   birthday: "February 27",
+   gooddistance2: "Sprint",
+   okdistance2: "Mile",
+   worstdistance2: "Med/Long",
+   goodpace: "Pace",
+   okpace: "Front/Late",
+   worstpace: "End",
+      pollEmbed: [
+'<div class="strawpoll-embed" id="strawpoll_e7ZJajOodg3" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_e7ZJajOodg3" src="https://strawpoll.com/embed/e7ZJajOodg3" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+'<div class="strawpoll-embed" id="strawpoll_Q0Zp7G48xgM" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_Q0Zp7G48xgM" src="https://strawpoll.com/embed/Q0Zp7G48xgM" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+'<div class="strawpoll-embed" id="strawpoll_kogjRGvPEg6" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_kogjRGvPEg6" src="https://strawpoll.com/embed/kogjRGvPEg6" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+      ]
+  }, 
+
 
 
 };
+
+
 
 
 
