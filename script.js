@@ -1605,9 +1605,50 @@ goldcity: {
       ]
   }, 
 
+agnesdigital: {
+      personality: "A true Umamusume superfan through and through. She enrolled at Tracen Academy just to be closer to the runners she adores. Even with her overflowing enthusiasm, she makes an effort to respect boundaries and avoid causing trouble. She wants to meet as many Umamusume as possible, and her determination has revealed impressive skill on both dirt and turf.",
+    trait1: "Strength: Miracle-level massages.",
+    trait2: "Weaknesses: Shipping wars.",
+    trait3: "Family: Her family loves camping, festivals, and barbecues.",
+    trait4: "Pre-Race Ritual: Emotional to the extreme.",
+    trait5: "Secret: She can handle both extreme heat and cold like it’s nothing.",
+    speedpriority: "1200",
+    staminapriority: "800",
+    powerpriority: "800",
+    gutspriority: "400",
+   witspriority: "400",
+   skill1: "Straightaway Spurt",
+   skill2: "Corner Acceleration ◯",
+   skill3: "Swinging Maestro",
+   besttotrain: "Focus on Speed,then on Stamina,Power,Guts and Wits.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Mile/Med", 
+   okdistance: "-", 
+   worstdistance: "Sprint/Long", 
+   track: "She performs best on both turf and dirt tracks.",
+   profileimage: "images/Agnes_Digital_(Icon).png",
+   profilename: "Agnes Digital",
+   profilesubtitle: " 'All-Around Otaku' ",
+   rarity: "★★★",
+   type: "Speed",
+   distance: "Mile/Med",
+   style: "Pace/Late",
+   birthday: "May 15",
+   gooddistance2: "Mile/Med",
+   okdistance2: "-",
+   worstdistance2: "Sprint/Long",
+   goodpace: "Pace/Late",
+   okpace: "End",
+   worstpace: "Front",
+      pollEmbed: [
+        '<div class="strawpoll-embed" id="strawpoll_QrgewGVjjyp" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_QrgewGVjjyp" src="https://strawpoll.com/embed/QrgewGVjjyp" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+        '<div class="strawpoll-embed" id="strawpoll_Q0Zp7G43xgM" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_Q0Zp7G43xgM" src="https://strawpoll.com/embed/Q0Zp7G43xgM" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+        '<div class="strawpoll-embed" id="strawpoll_GJn449G3qnz" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GJn449G3qnz" src="https://strawpoll.com/embed/GJn449G3qnz" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+      ]
+  }
 
 
-};
+}
 
 
 
