@@ -1645,7 +1645,50 @@ agnesdigital: {
         '<div class="strawpoll-embed" id="strawpoll_Q0Zp7G43xgM" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_Q0Zp7G43xgM" src="https://strawpoll.com/embed/Q0Zp7G43xgM" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
         '<div class="strawpoll-embed" id="strawpoll_GJn449G3qnz" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GJn449G3qnz" src="https://strawpoll.com/embed/GJn449G3qnz" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
       ]
-  }
+  },
+
+kawakami: {
+      personality: "Aiming for the life of a true princess, she’s a bold and energetic tomboy with a magnificent heart. Despite her rough-and-tumble nature, an anime she once watched filled her with hope for a future where a princess and prince fight side by side. Ever since, she’s chased that dream with all her might, waiting for the day she meets her destined prince. She admires King Halo and looks to her as a mentor and role model.",
+    trait1: "Strength: Killing cockroaches.",
+    trait2: "Weaknesses: Spending money too easily.",
+    trait3: "Family: They always chose clothes for her that were both cute and sturdy.",
+    trait4: "Pre-Race Ritual: She fires herself up with a powerful fist pump.",
+    trait5: "Secret: She once shot up twelve centimeters in a single year.",
+    speedpriority: "1200",
+    staminapriority: "800",
+    powerpriority: "800",
+    gutspriority: "400",
+   witspriority: "400",
+   skill1: "Late Surger Corners ◯",
+   skill2: "Late Surger Straightaways ◯",
+   skill3: "Professor of Curvature",
+   besttotrain: "Focus on Speed,then on Stamina,Power,Guts and Wits.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Med", 
+   okdistance: "Mile", 
+   worstdistance: "Sprint/Long", 
+   track: "She performs best on turf tracks.",
+   profileimage: "images/Kawakami_Princess_(Icon).png",
+   profilename: "Kawakami Princess",
+   profilesubtitle: " 'Precocious Princess' ",
+   rarity: "★★★",
+   type: "Speed",
+   distance: "Med",
+   style: "Late",
+   birthday: "June 5",
+   gooddistance2: "Med",
+   okdistance2: "Mile",
+   worstdistance2: "Sprint/Long",
+   goodpace: "Late",
+   okpace: "Pace",
+   worstpace: "End/Front",
+   pollEmbed: [
+    '<div class="strawpoll-embed" id="strawpoll_ajnE17N2MnW" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_ajnE17N2MnW" src="https://strawpoll.com/embed/ajnE17N2MnW" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_e7ZJajOldg3" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_e7ZJajOldg3" src="https://strawpoll.com/embed/e7ZJajOldg3" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_7rnzV3G9dnO" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_7rnzV3G9dnO" src="https://strawpoll.com/embed/7rnzV3G9dnO" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+   ]
+  },
+
 
 
 }
