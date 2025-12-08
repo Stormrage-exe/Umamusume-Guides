@@ -361,6 +361,11 @@ p{
     pointer-events: none; 
 }
 
+#lights{
+    width:100%;
+   height:30px;
+}
+
 #snoweffect {
     width: 100%;
     height: 100%;
