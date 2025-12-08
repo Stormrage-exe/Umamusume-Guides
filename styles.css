@@ -351,6 +351,36 @@ p{
     float:right;
 }
 
+.snow-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; 
+    z-index: 1;
+    pointer-events: none; 
+}
+
+#snoweffect {
+    width: 100%;
+    height: 100%;
+    opacity: 0.6; 
+    object-fit: cover; 
+}
+
+.wiki-header {
+    position: relative;
+}
+
+.main-nav {
+    position: relative;
+    z-index: 2;
+}
+
+.main-nav a {
+    text-shadow: 0 0 3px rgba(0, 0, 0, 0.7);
+    position: relative;
+}
         
         .month {
         padding: 30px;
