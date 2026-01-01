@@ -1689,6 +1689,47 @@ kawakami: {
    ]
   },
 
+  manhattancafe: {
+      personality: "A quiet girl who melts into the darkness and claims to speak with it. She’s often seen lingering near walls, absentmindedly tracing strange patterns with her fingers. According to her, she’s never truly alone, as she’s always accompanied by her “friend.” She enjoys slowly sipping a warm cup of coffee, since drinking it too fast upsets her stomach.",
+    trait1: "Strength: Brewing coffee.",
+    trait2: "Weaknesses: Bright, sunny days.",
+    trait3: "Family: A family of devoted coffee lovers who import their beans directly.",
+    trait4: "Pre-Race Ritual: She closes her eyes and imagines a pitch-dark night.",
+    trait5: "Secret: She has a passion for mountain climbing.",
+    speedpriority: "1200",
+    staminapriority: "1000",
+    powerpriority: "800",
+    gutspriority: "400",
+   witspriority: "400",
+   skill1: "Late Surger Straightaways ◯",
+   skill2: "Swinging Maestro",
+   skill3: "Professor of Curvature",
+   besttotrain: "Focus on Speed,then on Stamina,Power,Guts and Wits.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Long", 
+   okdistance: "Med", 
+   worstdistance: "Mile/Sprint", 
+   track: "She performs best on turf tracks.",
+   profileimage: "images/Manhattan_Cafe_(Icon).png",
+   profilename: "Manhattan Cafe",
+   profilesubtitle: " 'Looming Shadow' ",
+   rarity: "★★★",
+   type: "Speed/Stamina",
+   distance: "Long",
+   style:"Late",
+   birthday: "March 5",
+   gooddistance2: "Long",
+   okdistance2: "Med",
+   worstdistance2: "Mile/Sprint",
+   goodpace: "Late",
+   okpace: "Pace/End",
+   worstpace: "Front",
+      pollEmbed: [
+    '<div class="strawpoll-embed" id="strawpoll_YVyPv928ogN" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_YVyPv928ogN" src="https://strawpoll.com/embed/YVyPv928ogN" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_NPgxepkvAZ2" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NPgxepkvAZ2" src="https://strawpoll.com/embed/NPgxepkvAZ2" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_NoZrz2LNBZ3" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_NoZrz2LNBZ3" src="https://strawpoll.com/embed/NoZrz2LNBZ3" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>'
+   ]
+  }, 
 
 
 }
