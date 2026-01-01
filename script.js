@@ -1772,6 +1772,46 @@ kawakami: {
    ]
   },
 
+  mejirodober: {
+      personality: "Cool and reserved by nature, she often grows tense in social settings especially when men are involved. Despite being raised in the prestigious Mejiro household, where guests are a constant presence, she lived a highly sheltered life. Because of this, she may appear distant or cold to those she doesn’t know. However, anyone who takes the time to speak with her soon realizes she’s far less rigid than she first appears.",
+    trait1: "Strength: Knowledgeable about brands.",
+    trait2: "Weaknesses: Men, thunder.",
+    trait3: "Family: Her father regrets being forbidden from calling her “Berry”.",
+    trait4: "Pre-Race Ritual: She locks eyes with her trainer in the crowd.",
+    trait5: "Secret: Her piano skills and talent for children’s games rival those of a kindergarten teacher.",
+    speedpriority: "1200",
+    staminapriority: "800",
+    powerpriority: "800",
+    gutspriority: "400",
+   witspriority: "600",
+   skill1: "Homestretch Haste",
+   skill2: "Late Surger Corners ◯",
+   skill3: "Swinging Maestro",
+   besttotrain: "Focus on Speed,then on Stamina,Power,Wits and Guts.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Mile/Med", 
+   okdistance: "-", 
+   worstdistance: "Sprint/Long", 
+   track: "She performs best on turf tracks.",
+   profileimage: "images/Mejiro_Dober_(Icon).png",
+   profilename: "	Mejiro Dober",
+   profilesubtitle: " 'Coolheaded Beauty' ",
+   rarity: "★★★",
+   type: "Speed",
+   distance: "Mile/Med",
+   style: "Late",
+   birthday: "May 6",
+   gooddistance2: "Mile/Med",
+   okdistance2: "-",
+   worstdistance2: "Sprint/Long",
+   goodpace: "Late",
+   okpace: "Pace/Front",
+   worstpace: "End", 
+pollEmbed: [ '<div class="strawpoll-embed" id="strawpoll_xVg71DdWzyr" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_xVg71DdWzyr" src="https://strawpoll.com/embed/xVg71DdWzyr" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+   '<div class="strawpoll-embed" id="strawpoll_PKgleOz2oZp" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_PKgleOz2oZp" src="https://strawpoll.com/embed/PKgleOz2oZp" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_e7ZJarOPdg3" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_e7ZJarOPdg3" src="https://strawpoll.com/embed/e7ZJarOPdg3" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>' 
+   ]
+  },
 
 }
 
