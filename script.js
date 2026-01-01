@@ -1731,6 +1731,47 @@ kawakami: {
    ]
   }, 
 
+  tosenjordan: {
+      personality: "A fashionable city girl who hates putting in effort just to follow the status quo. She often tries to dodge tough situations by pretending she’s too clueless to understand, though she’s more than capable when she actually puts her mind to it. Once, she fell into a major slump after breaking a nail, which is why she’s been extra careful about painting and maintaining them ever since. Thanks to her excellent communication skills, she has a wide circle of friends.",
+    trait1: "Strength: Doing nails, basketball.",
+    trait2: "Weaknesses: Health food, seeded grapes.",
+    trait3: "Family: Has plenty of memories of being scolded for not eating her vegetables first.",
+    trait4: "Pre-Race Ritual: She repaints her nails, then focuses up.",
+    trait5: "Secret: She takes morning TV horoscopes surprisingly seriously.",
+    speedpriority: "1200",
+    staminapriority: "800",
+    powerpriority: "800",
+    gutspriority: "400",
+   witspriority: "400",
+   skill1: "Pace Chaser Corners ◯",
+   skill2: "Medium Corners ◯",
+   skill3: "Professor of Curvature",
+   besttotrain: "Focus on Speed,then on Stamina,Power,Guts and Wits.",
+   racestrategy: "On Sprint choose Front. On Mile choose Pace. On Medium choose Late. On Long choose End.", 
+   bestdistance: "Med", 
+   okdistance: "Long", 
+   worstdistance: "Mile/Sprint", 
+   track: "She performs best on turf tracks.",
+   profileimage: "images/Tosen_Jordan_(Icon).png",
+   profilename: "Tosen Jordan",
+   profilesubtitle: " 'L Hater' ",
+   rarity: "★★★",
+   type: "Speed",
+   distance: "Med",
+   style: "Pace",
+   birthday: "February 4",
+   gooddistance2: "Med",
+   okdistance2: "Long",
+   worstdistance2: "Mile/Sprint",
+   goodpace: "Pace",
+   okpace: "Late/Front",
+   worstpace: "End", 
+ pollEmbed: [ '<div class="strawpoll-embed" id="strawpoll_ajnE1MNoAnW" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_ajnE1MNoAnW" src="https://strawpoll.com/embed/ajnE1MNoAnW" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+   '<div class="strawpoll-embed" id="strawpoll_GPgVYM3J3na" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_GPgVYM3J3na" src="https://strawpoll.com/embed/GPgVYM3J3na" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>',
+    '<div class="strawpoll-embed" id="strawpoll_XmZRQdjPxgd" style="height: 400px; max-width: 420px; width: 100%; margin: 0 auto; display: flex; flex-direction: column;"><iframe title="StrawPoll Embed" id="strawpoll_iframe_XmZRQdjPxgd" src="https://strawpoll.com/embed/XmZRQdjPxgd" style="position: static; visibility: visible; display: block; width: 100%; flex-grow: 1;" frameborder="0" allowfullscreen allowtransparency>Loading...</iframe><script async src="https://cdn.strawpoll.com/dist/widgets.js" charset="utf-8"></script></div>' 
+   ]
+  },
+
 
 }
 
